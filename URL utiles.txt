@@ -5,3 +5,4 @@ https://www.lawebdelprogramador.com/foros/Java/1486154-imprimir-directo-a-la-imp
 https://docs.oracle.com/javase/7/docs/api/
 https://programacion.net/articulo/crear_un_servidor_http_simple_en_java_1059
 https://www.w3schools.com/java/java_files.asp
+https://medium.com/@ssaurel/create-a-simple-http-web-server-in-java-3fc12b29d5fd

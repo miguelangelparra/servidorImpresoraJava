@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="servidorImpresoraJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/servidorImpresoraJava_jar</output-path>
+    <root id="archive" name="servidorImpresoraJava.jar">
+      <element id="module-output" name="servidorImpresoraJava" />
+    </root>
+  </artifact>
+</component>
