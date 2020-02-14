@@ -1,0 +1,7 @@
+https://github.com/miguelangelparra/servidorImpresoraJava.git
+https://www.lawebdelprogramador.com/foros/Java/1275923-imprimir-archivos-en-java.html
+https://docs.oracle.com/javase/7/docs/api/
+https://www.lawebdelprogramador.com/foros/Java/1486154-imprimir-directo-a-la-impresora.html
+https://docs.oracle.com/javase/7/docs/api/
+https://programacion.net/articulo/crear_un_servidor_http_simple_en_java_1059
+https://www.w3schools.com/java/java_files.asp
